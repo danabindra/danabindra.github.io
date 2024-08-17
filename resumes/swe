@@ -1,0 +1,101 @@
+# Dana Stevenson
+
+**Phone:** 510.631.6308 | **Email:** ds410650@gmail.com
+
+---
+
+## Qualification Summary
+
+Senior engineer with deep technical knowledge in CI/CD, Solution Architecture, Software Engineering, DevOps Engineering, and Network Engineering across on-prem/public and private cloud infrastructures in the software, telecom, aviation, and fintech industries. Possesses comprehensive skills in automation, design and engineering, team leadership, and project management. Proven track record of completing projects on time, under budget, and with high resilience. Excellent troubleshooting and problem resolution skills.
+
+---
+
+## Recent Accomplishments
+
+- Developed automation workflows to deploy infrastructure and applications to private cloud Kubernetes clusters from 2800 VMs.
+- Designed and implemented IaC (Terraform, Pipelines) strategy from manual configuration for company enterprise users.
+- Led a team of eight Manila and Bangalore DevOps/SWEs/Infra engineers on a feasibility model and Azure PoC vRAN solution to migrate fixed site functions to telco carrier edge cloud container clusters for IoT and prototype endpoints communications.
+
+---
+
+## Professional Experience
+
+### SS&C Technologies - Sr. DevOps Engineer  
+**February 2023 to Present**
+
+- Managed deployment, configuration management, and troubleshooting in an OSS-centered enterprise for applications and solutions within the enterprise environment.
+- Liaised and collaborated with CSO and security engineers during quarterly reviews and critical incidents to address CVEs, audits, and policy violations through IaC adjustments, rebuilding repo images, and updating VM container policies.
+- Managed day-to-day work with customers' PoC and onboarded new applications to test, dev, UAT, and production environments via automation.
+- Led the containerization of applications using Docker and orchestrated deployments with Kubernetes, enhancing scalability and resilience.
+
+### Avanade – Cloud Infrastructure Manager  
+**April 2022 to February 2023**
+
+- Responsible for security and vulnerability assessment of build/deploy Azure DevOps pipelines from repos to VM/cluster deployment environments.
+- Administered and optimized Azure and GCP cloud environments, ensuring optimal performance and cost-efficiency.
+- Developed and maintained configuration management scripts using Ansible and Actions, streamlining server setup and configuration processes.
+- Enhanced security postures by conducting regular vulnerability assessments (Harbor) and implementing necessary patches and security policies enforcement (Aquasec).
+- Collaborated with development teams to adopt microservices architecture, improving scalability and agility of application development.
+- Automated routine operational tasks through scripting in Bash and Python, freeing up development resources and reducing manual errors.
+
+### Booz Allen - Lead Network Engineer  
+**July 2020 to April 2022**
+
+- Led the design and implementation of Azure IaaS/PaaS resources (Compute, AKS, vNets, App Service, AAD/PIM/IP Express Route, KeyVault) including monitoring, automation, validation in staging, dev, and production cloud and on-prem environments.
+- Conducted security and vulnerability assessments of build/deploy Azure DevOps pipelines from repos to VM/cluster deployment environments.
+- Performed migration of on-prem infrastructure (IaC) and policies to Azure using Terraform, Ansible playbooks, and shell scripts for customer production networks.
+- Led customer migration and scaling for on-prem application to K8S containerized cloud solutions.
+- Implemented and administered deployment pipeline automation processes using Jenkins, Docker, Kubernetes, and GITLAB.
+- Acquired entry-level experience writing GO (Golang) Kubernetes operators for custom apps.
+- Automated cloud security solutions to align with Risk Management Framework (RMF) discovery.
+
+### Alaska Airlines - Solutions Engineer  
+**April 2015 to April 2020**
+
+- Built and managed secure Azure Kubernetes/ACI clusters and nodes using Helm, Istio, CSI.
+- Collaborated with SWE teams on CI/CD infrastructure and application deployments using Terraform and Azure DevOps pipelines, dashboards, etc., to maximize uptime for app migrations to Azure cloud resources.
+- Engineered Azure networking, private endpoints, App Service, Firewall, Traffic Manager, Front Door, and LBs for customer and enterprise web frontend and backend applications.
+- Managed day-to-day triage/troubleshooting of on-prem enterprise MPLS VPN/EVPN (OSPF/BGP/VXLAN) for voice, video, and radio communication to airline applications across 100+ airports, offices, and data centers.
+- Acted as liaison between automation and network engineers for modeling of monitoring/performance tools using Python scripts for pre-emption, error detection, and troubleshooting network and cloud issues.
+- Worked on architect, build team for new/upgrade sites’ deployment of Cisco, Juniper MX enterprise solution.
+- Managed configuration and device management using Ansible/PyEZ/ Salt automation scripts at branches.
+- Provided technical participation and authored HLDs/LLDs, RCAs, Visio designs, and documentation.
+
+### IBM – Infrastructure Architect  
+**November 2013 to April 2015**
+
+- Handled day-to-day implementation and operation of Nexus, Juniper network via shell scripts, manual configuration, and troubleshooting of MPLS VPNs (BGP/OSPF/ISIS).
+- Performed incident management (e.g., peering, adjacency, errors) resolution using Jinja (YAML/Python) templates.
+- Planned and completed data center migration of on-prem applications/databases to AWS EC2 instances.
+- Designed, tested, planned, and implemented network changes and new infrastructure working with vendors, telecommunications carriers, and network engineering staff.
+- Responsible for provisioning and management of SIP and other telco facilities (ATT, L3, LECs).
+- Provided technical support on various telecom and network backbone protocol problems.
+- Served as Tier 1 ticket escalation point for resolution from network engineers and DevOps teams on AWS and Azure platforms.
+- Assisted customers with vendor integrations, upgrades, SUT design, and setup.
+
+### Cisco Systems – Infrastructure Architect
+
+- Administered the WebEx network and its applications including Spark, HCS.
+- Designed, planned, and deployed MPLS RSVP, BGP, ISIS OSPF, L2/L3VPN, pseudowires for telecom carrier networks.
+- Focused on network design, convergence (QoS), routing (BGP, EIGRP), and switching with an emphasis on resiliency, availability, and latency.
+- Designed and implemented architect solutions on networks (HCS, Webex).
+- Acted as an escalation tier for Cisco TAC issues, working closely with development teams to test/build protocol scenarios for issues and integrations (SUTs).
+- Served as SME for SIP trunking and PBX designs for customer messaging and call flows.
+- Created customer call center supervisor dashboards and real-time reporting to optimize utilization.
+
+### Ixia - Sr. Technical Support Engineer
+
+- Provided onsite and remote technical support, assisting customers in simulating their networks and applications on IxNetwork, IxLoad, and Breaking Point.
+- Supported customers for collaboration POCs, architected and validated system integration solutions.
+- Managed long and short-term project-driven implementations, tracked milestones, and validated final infrastructure solutions.
+- Authored and presented collaboration system designs and standards, HLD, LLD, requirements documents.
+- Tested, deployed, and provisioned traffic engineering strategies in customer networks.
+- Authored technical documentation and knowledge base content, performing replications for pre-staging and troubleshooting customer environments.
+
+### Google Fiber - NOC Engineer
+
+- Collaborated with internal customers and teams to build datacenter, POP, and peering networks for infrastructure deployments of GPON and MPLS/BGP/ISIS networks.
+- Managed device configuration and provisioning, troubleshooting on network cores per SLAs, using Juniper (JUNOS) MX series device hardware.
+- Scheduled, deployed, and ran maintenance windows for fiber cuts, new turn-ups, upgrades, and production data networks.
+- Supported field operations and Engineering to resolve complex issues, receiving escalations from Tier 1/2 and GF Customer Support.
+- Scripting (Python, Perl, shell) to automate repetitive tasks and processes in NOC for end customer deployment.
